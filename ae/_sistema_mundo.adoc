@@ -142,3 +142,69 @@ su particular velocidad y fuerza de gravedad a distintas alturas,
 describirán arcos concéntricos a la Tierra o de diversas excentri­cidades
 y seguirán girando en esas órbitas por el firmamento
 igual que los planetas giran en las suyas.
+
+*§4* _La certeza de la prueba_.
+
+Cuando una piedra es proyectada oblicuamente, es decir, de
+cualquier forma menos en dirección perpendicular, su continua
+desviación hacia la Tierra de la linea recta por la que fue
+proyectada es prueba tan cierta de su gravitación hacia la Tierra
+como lo es su descenso directo cuando cae libremente desde una
+posición de reposo. Igualmente, la desviación de la trayectoria
+rectilínea de los cuerpos que se mueven por los espacios libres y
+su continua deflexión hacia cualquier lugar son indicación
+segura de la existencia de alguna fuerza que impele en todas
+partes a dichos cuerpos hacia aquel lugar.
+
+Supuesta la existencia de la gravedad, se sigue necesariamen­te
+que todo cuerpo sobre la Tierra tiene que tender hacia abajo,
+descendiendo directamente hacia ella si cae desde una posición
+de reposo o al menos desviándose continuamente de la línea
+recta hacia la Tierra si es proyectado oblicuamente. De la misma
+manera, supuesta una fuerza dirigida hacia cualquier centro, se
+seguirá con la misma necesidad que todos los cuerpos sobre los
+que dicha fuerza actúa tendrán que descender directamente
+hacia aquel centro, o al menos desviarse continuamente de la
+línea recta y hacia él, en el caso de que se movieran oblicuamen­te
+por lineas rectas.
+
+Los dos primeros Libros de nuestros _Principios de Filosofía_
+muestran cómo pueden inferirse las fuerzas de los movimientos y
+cómo, dadas las fuerzas, podemos determinar los movimientos.
+
+Suponiendo que la Tierra está en reposo y que las estrellas
+fijas giran por los espacios libres en el transcurso de 24 horas, es
+evidente que las fuerzas que retienen a las estrellas fijas en sus
+órbitas no se dirigen hacia la Tierra, sino hacia los centros de
+dichas órbitas, es decir, de los diversos círculos paralelos que las
+estrellas fijas, declinando hacia ambos lados del ecuador, descri­ben
+diariamente. Y también es evidente que las estrellas fijas,
+mediante radios trazados a los centros de sus órbitas, describen
+áreas exactamente proporcionales a los tiempos de descripción.
+En consecuencia, puesto que los tiempos periódicos son iguales
+(por el Corolario III de la Proposición IV, Libro I), se sigue que
+las fuerzas centrípetas son como los radios de las diversas
+órbitas, y que seguirán girando continuamente por las mismas
+órbitas. Y del movimiento diario supuesto de los planetas se
+siguen las mismas consecuencias.
+
+La hipótesis de que las fuerzas no se dirigen hacia ningún
+cuerpo del que dependen físicamente, sino hacia innumerables
+puntos imagínanos en el eje de la Tierra, es excesivamente
+incongruente. Más incongruente aún sería que dichas fuerzas
+crecieran exactamente en proporción a las distancias a este eje
+pues ello indicaría un aumento hasta la inmensidad, o más bien
+hasta el infinito, mientras que las fuerzas de las cosas naturales
+por lo común decrecen a medida que se alejan de la fuente de
+donde fluyen. Aún más absurdo es que las áreas descritas por
+una estrella no sean proporcionales a los tiempos o que sus
+revoluciones no tengan lugar por la misma órbita, pues tanto las
+áreas como las órbitas aumentan a medida que la estrella se
+aleja del polo vecino, y el aumento del área demuestra que las
+fuerzas no se dirigen hacia el eje de la Tierra. Esta dificultad
+(Corolario 1, Proposición II, Libro I) obedece al doble movi­miento
+que se observa en las estrellas fijas, uno diario en torno
+al eje de la Tierra y otro, extremadamente lento, en tomo al eje
+de la eclíptica. Su explicación requiere una composición de
+fuerzas tan elaborada y variable que es difícil de reconciliar con
+cualquier teoría física.
