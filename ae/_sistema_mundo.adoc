@@ -1,0 +1,144 @@
+== El Sistema del Mundo
+
+*§1* _La materia del firmamento es fluida_.
+
+Era opinión extendida entre los antiguos, en los primeros
+estadios de la filosofía, que las estrellas fijas permanecían
+inmóviles en las partes más altas del mundo; que bajo las
+estrellas fijas los planetas se trasladaban en torno al Sol; que la
+Tierra, como uno de los planetas, describía un curso anual
+alrededor del Sol, mientras por un movimiento diario giraba
+entretanto en tomo a su propio eje, y que el Sol, como fuego
+común que servia para calentar el todo, estaba fijo en el centro
+del universo.
+
+Esta fue la filosofía enseñada de antiguo por _Filolao_,
+_Aristarco de Santos_, el _Platón_ maduro y toda la secta pitagórica;
+y éste fue el criterio de _Anaximandro_, más antiguo aún; y el de
+ese sabio rey romano, _Numa Pompilio_, que como un símbolo de
+la figura del mundo con el Sol en el centro, erigió un templo
+circular en honor de Vesta, ordenando que en su centro se
+mantuviese un fuego perpetuo.
+
+Los egipcios fueron precoces observadores de los cielos, y
+probablemente desde entonces se diseminó esta filosofía en otras
+naciones; pues de ellos y de las naciones circundantes obtuvieron
+sus primeras y más sensatas nociones de filosofía los griegos, un
+pueblo más dado al estudio de la filosofía que al de la
+Naturaleza. Y en las ceremonias vestálicas podemos todavía
+rastrear el antiguo espíritu de los egipcios, pues ofrecían sus
+misterios -esto es, su filosofía sobre cosas por encima del modo
+común de pensar- bajo el velo de ritos religiosos y símbolos
+jeroglíficos.
+
+No ha de negarse que _Anaxágoras_, _Demócrito_ y otros
+afirmaron ocasionalmente que la Tierra poseía el centro del
+mundo y las estrellas giraban hacía el oeste en torno a una
+Tierra inmóvil en el centro, unas más deprisa y otras mas
+despacio.
+
+Sin embargo, todos coincidían en que los movimientos de los
+cuerpos celestes se realizaban en espacios completamente libres
+y vacíos de resistencia. El capricho de los orbes sólidos fue
+posterior, introducido por _Eudoxo_, _Calipo_ y _Aristóteles_, cuando
+la filosofía antigua empezó a declinar y a ceder su puesto a las
+nuevas ficciones prevalecientes entre los _griegos_.
+
+Pero, por encima de todo, el fenómeno de los cometas no
+puede de ninguna manera tolerar la idea de orbes sólidos. Los
+_caldeos_, que fueron los astrónomos más eximios de su tiempo,
+consideraban a los cometas (que de antiguo habían sido conta­dos
+entre los cuerpos celestes) como un tipo especial de planetas
+que por describir órbitas excéntricas sólo se presentaban por
+turnos a la vista, una vez en cada revolución, cuando descendían
+hasta las partes más bajas de sus órbitas.
+
+Y como la consecuencia inevitable de la hipótesis de órbitas
+sólidas, mientras prevaleció, era que los cometas fuesen puestos
+en espacios sublunares, cuando observaciones posteriores de los
+astrónomos restauraron a los cometas en sus antiguos lugares de
+los cielos superiores, esos espacios celestes se emanciparon
+necesariamente de la losa de órbitas sólidas.
+
+*§2* _El principio del movimiento circular en espacios libres_.
+
+A partir de este momento no sabemos de qué modo
+explicaron los antiguos el problema de cómo resultaban reteni­dos
+los planetas dentro de ciertos vínculos en esos espacios
+libres, y desviados de los cursos rectilíneos que -abandonados a
+sí mismos- habrían seguido, para describir revoluciones regula­res
+en órbitas curvas. Fue probablemente para dar algún tipo de
+respuesta a esa dificultad por lo que se introdujeron las órbitas
+sólidas.
+
+Los filósofos posteriores pretendieron resolverla bien por la
+acción de ciertos vórtices, como _Kepler_ y _Descartes_, o por algún
+otro impulso o atracción, como _Borelli_, _Hooke_ y otros de
+nuestra nación; pues partiendo de las leyes del movimiento, es
+evidente que tales efectos deben proceder de la acción de una
+fuerza u otra.
+
+Pero nuestro propósito es sólo rastrear la cantidad y
+propiedades de esa fuerza partiendo de los fenómenos (vid.
+Escolio a la Proposición LXIX), y aplicar lo descubierto en
+algunos casos simples como principios, gracias a los cuales
+podremos calcular matemáticamente sus efectos en casos más
+comprometidos; pues seria interminable e imposible someter
+cada detalle a observación directa e inmediata.
+
+Dijimos _matemáticamente_ para rehuir cualquier cuestión
+sobre la naturaleza o cualidad de esta fuerza, que no pretende­mos
+determinar mediante hipótesis alguna. En consecuencia, la
+designamos con el nombre general de fuerza centrípeta, por
+cuanto es una fuerza dirigida hacia algún centro; y en tanto
+concierne más específicamente a un cuerpo en ese centro la
+llamamos circunsolar, circunterrestre, circunjoviana, etc.
+
+*§3* _La acción de fuerzas centrípetas_.
+
+Si consideramos los movimientos de los proyectiles (vid Lib.
+I Definiciones III-VIII) podremos entender fácilmente que los
+planetas pueden ser retenidos en ciertas órbitas mediante fuerzas
+centrípetas, pues una piedra proyectada se ve apartada de su
+senda rectilínea por la presión de su propio peso y obligada a
+describir en el aire una curva, cuando en virtud de la sola
+proyección inicial habría debido continuar dicha senda recta, en
+vez de ser finalmente atraída al suelo; y cuanto mayor es la
+velocidad con la cual resulta proyectada más lejos llega antes de
+caer a tierra. Podemos por eso suponer que la velocidad se
+incremente hasta que la piedra describa un arco de 1, 2, 5, 10,
+100, 1000 millas antes de caer, de forma que al final, superando
+los límites de la Tierra, pasará al espacio sin tocarla.
+
+AFB representa la superficie de la Tierra, C su centro, VD,
+VE y VF las curvas que un cuerpo describiría si fuese proyecta­do
+en dirección horizontal desde la cima de una alta montaña a
+más y más velocidad (vid. Lib. III, Proposición X). Puesto que
+los movimientos celestes no son prácticamente retardados por la
+pequeña o nula resistencia de los espacios donde tienen lugar,
+supongamos, para conservar la analogía de los casos, que en la
+Tierra no hubiera aire, o al menos que éste está dotado de un
+poder de resistencia nulo o muy pequeño. Entonces, por la
+misma razón que el cuerpo, proyectado con menos velocidad
+describe el arco menor VD y, proyectado con más velocidad, el
+arco mayor VE, prosiguiendo en su camino hasta F y G al
+aumentar la velocidad, si ésta sigue aumentando el cuerpo
+terminará por llegar hasta bastante más allá de la circunferen­cia
+de la Tierra, retornando a la montana desde la que fue
+proyectado.
+
+Y puesto que las áreas descritas por este movimiento
+mediante radio trazado a la Tierra son (por la Proposición I.
+Libro I Princip. Mat.) proporcionales a sus tiempos de descrip­ción,
+su velocidad al retornar a la montaña no será menos que al
+principio, por lo que, reteniendo la misma velocidad, describirá
+la misma curva una y otra vez, obedeciendo a la misma ley.
+
+No obstante, si ahora suponemos que se proyectan varios
+cuerpos por la dirección de lineas paralelas al horizonte desde
+mayores alturas, como 5, 10, 100, 1000 ó más millas, o más bien
+como muchos semidiámetros de la Tierra, dichos cuerpos, según
+su particular velocidad y fuerza de gravedad a distintas alturas,
+describirán arcos concéntricos a la Tierra o de diversas excentri­cidades
+y seguirán girando en esas órbitas por el firmamento
+igual que los planetas giran en las suyas.

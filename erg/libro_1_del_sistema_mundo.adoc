@@ -1,0 +1,211 @@
+== Libro: Del Sistema del Mundo
+
+*§1* _Que los cielos son fluidos_. Fue muy antigua la
+opinión de los filósofos de que las estrellas fijas permanecían in­móviles
+en las regiones más altas del mundo, de que los
+planetas, más abajo, giraban en torno al Sol, de que, de
+modo similar, la Tierra se movía con un curso anual,
+mientras sobre el propio eje lo hacía con giro diurno, de
+que el Sol, o foco del universo, reposaba en el centro de
+todos ellos. Así habían opinado en otro tiempo _Filolao_,
+_Aristarco de Samos_, _Platón_ en su edad madura, multitud
+de Pitagóricos[^1], y Anaximandro más antiguo que ellos,
+lo mismo que _Numa Pompilio_ aquel sabio rey de los Romanos.
+_Arquímedes_ en el Arenario. _Arist_., en lib. 2 del
+cielo. _Plutarco_ en el lib. 3 de los «Placita Philosoforum» y
+también _Numa_. Este, como símbolo del orbe esférico y
+del fuego solar en el centro, erigió un templo a Vesta, de
+forma circular, y ordenó que se mantuviese un fuego per­petuo
+en el centro del mismo. Es verosímil empero, que
+esta opinión se propagase a partir de los _egipcios_, antiquí­simos
+observadores de los astros. Así pues, de ellos y de
+sus vecinos parece que pasó a los _griegos_, gente más filoló­gica
+que filosófica, toda la filosofía más antigua a la vez
+que más sensata; y los sagrados misterios de _Vesta_, supe­rando
+el conocimiento del vulgo gustan al ingenio de los
+egipcios, pintores de ritos sagrados y geroglíficos. Pero
+después _Anaxágoras_, _Demócrito_, y muchos otros enseña­ron
+que la Tierra permanece inmóvil en el centro del
+mundo, y que los astros todos se mueven hacia el ocaso
+unos más rápidamente, otros más lentamente y esto en es­pacios
+totalmente libres. Después fueron introducidas las
+esferas sólidas por _Eudoxo_, _Calipo_ y _Aristóteles_, al ir deca­yendo
+poco a poco la filosofía inicialmente recibida y al
+prevalecer poco a poco las nuevas formulaciones de los
+_Griegos_. Difícilmente se compaginan con estas esferas los
+fenómenos de los Cometas. Los _Caldeos_, gente muy ex­perta
+en temas astronómicos, consideraron[^2] como
+estrellas errantes a dichos Cometas, computados desde antiguo
+por muchos entre los cuerpos celestes: como si una
+vez en cada revolución, descendiendo a las partes infe­riores
+de órbitas muy excéntricas se nos mostrasen obser­vando
+por veces. Después la hipótesis de las órbitas sólidas
+los redujo necesariamente a las regiones sublunares; y de­bido
+a nuevas observaciones de los astrónomos, restituidos
+a los cielos supralunares, aquellas esferas se quebraron y
+fueron desalojadas del éter.
+
+[^1]: Sobre los primitivos pitagóricos me suscita grave duda Timeo
+Locro, quien en el libro Περὶ φύσιος κόσμω constituye a la Tierra en
+centro del mundo de forma muy erudita: sobre ella a la Luna: sobre la
+Luna al Sol que completa un círculo en el espacio de un año. Dice que
+Mercurio y Venus le acompañan con pasos casi iguales. Atribuye después
+a tos tres planetas restantes. Marte, Júpiter y Saturno, la velocidad propia
+de cada uno, su propio espacio de conversión (de giro). Pero todos, dice,
+están contenidos dentro de la esfera del Primer Móvil por cuyo giro son
+arrastrados todos tos demás inferiores como el mismo Sol.
+
+[^2]: Vide Diodoro Siculo: lib. 15, C. L y Séneca: Questiones Natur.
+Lib. 7.
+
+*§2* _El principio del movimiento circular en los espacios
+libres_. No sabemos con qué vínculos los antiguos rete­nían
+a los planetas en los espacios libres, y enseñaron
+que, apartados continuamente de la trayectoria rectilínea,
+giran regularmente en sus órbitas. Creo que para explicar
+esto se inventaron las esferas sólidas. Los filósofos más re­cientes
+o piensan que son los vórtices, como _Kepler_ o _Des­cartes__,
+o algún otro impulso o principio de atracción, co­mo
+_Borelli_, _Hooke_ y otros de entre los nuestros. Por la Ley
+primera del movimiento es absolutamente cierto que se
+requiere alguna fuerza. Es nuestro propósito elucidar su
+cantidad y propiedades e investigar matemáticamente los
+efectos en los cuerpos en movimiento; por tanto, para no
+determinar su especie de manera hipotética, la hemos de­nominado
+centrípeta con un nombre genérico, por cuanto
+tiende a un centro o también, tomando el nombre del
+centro, circunsolar a la que tiende al Sol; circunterrestre a
+la que tiende la Tierra; circunjovial a la que tiende a Júpi­ter,
+y así en los demás.
+
+*§3* _Efectos de las fuerzas centrípetas_. De los movi­mientos
+de los proyectiles se comprende que los planetas
+pueden ser retenidos en órbitas ciertas mediante fuerzas
+centrípetas. Una piedra lanzada, sometida a la acción de
+su gravedad, se desvía de la trayectoria rectilínea y, descri­biendo
+una curva en el aire, cae al fin al suelo; si se lanza­se
+con mayor velocidad, llegará más lejos. Aumentando la
+velocidad, podría lograrse que describiera un arco de una
+milla, dos, cinco, cien, mil; y por fin, al ir más allá de los
+límites de la Tierra, que no cayese ya en el suelo. Sea _AFB_
+la superficie de la Tierra; sea _C_ su centro; y _VD_, _VE_, _VF_
+las líneas curvas descritas por un proyectil lanzado desde el
+vértice _V_ de un monte muy alto, líneas paralelas a la línea
+del horizonte, resultado de lanzamientos sucesivos,
+aumentados cada uno con los correspondientes grados de
+velocidad. Y para que no intervenga la resistencia del aire,
+que apenas en nada retrasa los movimientos celestes, ima­ginemos
+que se ha suprimido o que por lo menos no ofre­ce
+_resistencia alguna. Y por la misma razón por la que el
+cuerpo con menor velocidad describe el arco menor _VD_, y
+el de velocidad mayor describe el arco mayor _VE_, y si se
+aumenta la velocidad llega aún más lejos hasta _F_, y aún
+más lejos hasta _G_, finalmente este mismo, si se le aumenta
+la velocidad continuamente, sobrepasará al monte desde
+donde fue lanzado. Puesto que el área descrita por el
+radio que le unía al centro de la tierra será (por la Prop. I
+del Lb. I Princp. Math.) proporcional al tiempo, su veloci­dad
+al regresar al monte no será menor que al principio: y
+manteniendo la velocidad puede girar así muchas veces
+por la misma ley. Imaginemos ahora que los cuerpos son
+lanzados según las líneas del horizonte desde puntos más
+altos; pongamos desde lugares de cinco, diez, cien, mil
+millas o más de altitud, o hasta incluso semidiámetros de
+la Tierra; y según la distinta velocidad de los cuerpos, y
+según la diferente gravedad ejercida en cada región descri­birán
+arcos Terrestres ya concéntricos, ya de excentricida­des
+diversas; y en estas trayectorias los cuerpos recorrerán
+los cielos de modo semejante al de los planetas.
+
+*§4* _Certeza del argumento_. Y del mismo modo que
+de la caída de la piedra lanzada se deduce demostrativa­mente
+que gravita, tampoco es indicio menos cierto de
+gravedad aquella continua desviación de los proyectiles
+hacia la tierra; del mismo modo todo desvío del camino
+recto de todos los cuerpos en movimiento en espacios
+libres, y la continua inclinación hacia cualquier lugar, es
+indicio seguro de que existe alguna fuerza por la que los
+cuerpos son afectados por doquier hacia ese lugar. Y pues­to
+que una vez admitida la gravedad es necesario que to­dos
+los cuerpos tiendan en la Tierra hacia lugares más ba­jos;
+y por lo mismo, o bien caen en línea recta si se los
+suelta desde el estado de reposo, o bien, si se los lanza
+oblicuamente, se desvían continuamente de la trayectoria
+recta hacia la Tierra; así también, concedido que una fuer­za
+tiende a un centro, no es menos necesario que todos los
+cuerpos sobre los que se ejerce dicha fuerza o bien des­ciendan
+rectamente hacia ese centro, o bien, si se mueven
+oblicuamente, se dirijan perpetuamente hacia el centro
+desviándose del camino recto. Pero la razón para deducir
+las fuerzas de los movimientos y los movimientos de las
+fuerzas se expuso extensamente en los Libros del Movi­miento.
+
+*§5* _Las fuerzas centrípetas tienden a los centros de cada
+planeta_. Deduzco que las fuerzas centrípetas tienden ha­cia
+los cuerpos del Sol, de la Tierra y de los Planetas, del
+modo siguiente. La Luna gira en torno a nuestra Tierra, y
+con radios trazados al centro de la misma Tierra, describe
+áreas proporconionales a los tiempos muy aproximada­mente.
+Esto resulta totalmente cierto de la comparación
+de la velocidad de la Luna con sus diámetros aparentes:
+con un diámetro menor, cosa que arguye mayor distancia,
+el movimiento es más lento; con un diámetro mayor, más
+rápido. Los satélites de Júpiter giran en torno a éste con
+movimientos mucho más regulares, describiendo círculos
+concéntricos a Júpiter con movimiento igual según lo que
+se ve. Lo mismo el compañero de Saturno se mueve en
+torno a este planeta con un movimiento bastante circular
+y constante, sin que se observe excentricidad apenas. Que
+Venus y Mercurio se mueven en torno al Sol se demuestra
+por sus fases lunares: al otro lado del Sol muestran su cara
+entera, a la altura del Sol, la mitad; a este lado del Sol,
+en forma curvada, pasando a veces por el disco del Sol.
+Venus ciertamente describe una órbita circular, concéntri­ca
+al Sol y con movimiento casi uniforme. En cambio Mer­curio,
+con un movimiento más excéntrico, se acerca
+mucho al Sol y desde allí se aleja poco a poco; pero
+siempre es más veloz cuando está más cerca del Sol, lo
+que hace que, con un radio trazado al Sol, describa áreas
+proporcionales a los Tiempos. Por fin, que la Tierra en
+torno al Sol o el Sol en torno a la Tierra describen, con el
+radio que los une, áreas exactamente proporcionales a los
+tiempos, se demuestra a partir de la comparación del
+diámetro aparente del Sol con su movimiento aparente.
+Estos son los experimentos astronómicos: y a partir de es­tos
+(por las tres Proposiciones primeras del Libro Primero y
+sus Corolarios) se infiere que se dan fuerzas centrípetas, ya
+exactamente, ya sin error notable, tendentes a los centros
+de la Tierra, de Júpiter, de Saturno. Para Venus, Marte, y
+los planetas menores, al faltar los experimentos, valga el
+argumento por analogía.
+
+*§6* _Las fuerzas centrípetas decrecen en razón cuadrada
+de la distancia a los centros de los planetas_. Del Corolario
+sexto de la proposición cuarta se sigue que estas fuerzas
+decrecen en razón al cuadrado de las distancias desde el
+centro de un planeta cualquiera. Pues los períodos de
+tiempo de los Satélites de Júpiter se corresponden entre sí
+en proporción sesquialtera a las distancias desde el centro
+de este planeta. Ya hace tiempo que se observó en ellos
+esta proporción; y tan exacta como es posible obtener por
+los sentidos me la dio a mí nuestro _Flamsteed_, quien mi­dió
+muchas veces esta distancia por el Micrómetro y por
+medio de los eclipses de los satélites. Antes del descubri­miento
+del Micrómetro, _Galileo_, partiendo del satélite in­terior
+hacia el exterior, estableció que eran al semidiámetro
+de Júpiter como 6, 10, 16, 28 respectivamente;
+_Simón Mario_, 6, 10, 16, 26; _Cassini_, 5. 8, 13, 23, _Borelli_,
+más exactamente, 5 2/3, 8 2/3, 14, 24 2/3. Y después del descubrimiento
+del Micrómetro, _Townley_, 5,51; 8,78; 13,47;
+24,72 y más exacto aún por los eclipses, 5,578; 8,876;
+14,159; 24,903; pero los períodos de tiempo de los satéli­tes
+según las observaciones de _Flamsteed_ son de 1 d.,
+18 h., 28', 36''; 3 d., 13 h., 17', 54''; 7 d., 3 h., 59',
+36''; y 16 d., 18 h., 5', 13''. Las distancias derivadas de
+esto son como los números 5,578, 8.878, 14,168, 24,968
+que se corresponden bastante bien con las distancias obte­nidas
+mediante observación y en los planetas circumsolares.
+Mercurio y Venus, tal proporción resulta exacta; al
+menos en la medida en que los astrónomos han estableci­do
+las dimensiones de las órbitas hasta ahora, mediante
+las observaciones mejor conocidas.

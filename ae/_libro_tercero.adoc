@@ -1,0 +1,43 @@
+== Libro Tercero
+
+=== Proposición III. Teorema III
+
+_Que la fuerza por la que la Luna es retenida en su órbita tiende
+hacia la Tierra y es inversamente proporcional al cuadrado de la
+distancia de su lugar al centro de la Tierra_.
+
+La primera parte de la Proposición se desprende manifiestamente
+del Fenómeno VI y las Proposiciones II o III, Libro I; la
+última del lentísimo movimiento del apogeo de la Luna, que, al
+no avanzar en cada evolución más que 3°3', puede ser ignorado.
+Pues del Corolario I, Proposición XLV, Libro I, se desprende
+que si la distancia de la Luna al centro de la Tierra es al
+semidiámetro de la Tierra como D a 1, la fuerza de la que
+resultará dicho movimiento es inversamente proporcional a
+D 2 4/243 es decir, inversamente proporcional a la potencia de D
+cuyo exponente es 2 4/243, es decir, en la proporción de la
+distancia, algo mayor que el cuadrado inverso, pero 59 3/4 veces
+más cerca de la proporción acorde al cuadrado que al cubo.
+Pero como este incremento se debe a la acción del Sol (como
+mas adelante expondremos), aquí puede ser ignorado. La acción
+de atracción del Sol sobre la Luna que tiende a alejarla de la
+Tierra es aproximadamente como la distancia de la Luna a
+la Tierra y, en consecuencia (según se ha expuesto en el Corolario
+II, Proposición XLV, Libro I) es a la fuerza centrípeta de
+la Luna como 2 a 357.45, o aproximadamente tal, es decir, como
+1 a 178 29/40. Y si ignoramos esta fuerza tan imperceptible del Sol,
+la fuerza restante, que retiene a la Luna en su orbe, será
+inversamente proporcional a D². Esto se comprenderá con
+mayor claridad aún al comparar esta fuerza con la fuerza de la
+gravedad, como se hará en la siguiente Proposición.
+
+*Colorario*. Si aumentamos la fuerza centrípeta media por
+la que la Luna es retenida en su orbe, primero en la proporción
+de 177 29/40 a 178 29/40 y después en ia proporción del cuadrado del
+semidiámetro de la Tierra a la distancia media entre los centros
+de la Luna y la Tierra, obtendremos la fuerza centrípeta de la
+Luna en la superficie de la Tierra, en el supuesto de que dicha
+fuerza aumente continuamente en proporción inversa al cuadra­do
+de la altura al descender hacia la superficie de la Tierra.
+
+== Proposición X. Teorema X

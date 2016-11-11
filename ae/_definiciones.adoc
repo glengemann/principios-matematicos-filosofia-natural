@@ -1,0 +1,186 @@
+== Definiciones
+
+=== Definición III
+
+_La fuerza ínsita de la materia es un poder de resistencia de todos los
+cuerpos, en cuya virtud perseveran cuanto está en ellos por mantener­se
+en su estado actual, ya sea de reposo o de movimiento uniforme en
+línea recta_
+
+Esta fuerza es siempre proporcional a su cuerpo, y sólo
+difiere de la inactividad de la masa por el modo de concebirla.
+Debido a la inercia de la materia, un cuerpo no abandona sin
+dificultad su estado de reposo o movimiento. Por lo cual esa _vis
+insita_ puede llamarse muy significativamente _vis inertiae_, fuerza
+de inactividad. Pero un cuerpo sólo ejerce esa fuerza cuando
+otra fuerza impresa en él trata de alterar su estado, y el ejercicio
+de esa fuerza puede considerarse como resistencia y como
+ímpetu. Es resistencia en tanto en cuanto el cuerpo se opone a la
+fuerza impresa para mantener su estado actual. Es ímpetu en
+tanto en cuanto el cuerpo, sin ceder fácilmente a la fuerza
+impresa de otro, se esfuerza por cambiar el estado de ese otro.
+La resistencia suele atribuirse a los cuerpos en reposo, y el
+ímpetu a los que están en movimiento, pero el movimiento y el
+reposo -tal como se conciben por lo general- sólo se distinguen
+de modo relativo, y no siempre se encuentran en auténtico
+reposo los cuerpos que suelen considerarse asi.
+
+=== Definición IV
+
+_La fuerza impresa es una acción ejercida sobre un cuerpo para
+cambiar su estado, bien sea de reposo o de movimiento uniforme en
+línea recta_.
+
+Esta fuerza consiste sólo en la acción, y no permanece en el
+cuerpo cuando la acción concluye. Porque un cuerpo persevera
+en cualquier estado nuevo que alcance, en virtud de su sola
+inercia. Pero las fuerzas impresas tienen orígenes diversos, como
+la percusión, la presión o la fuerza centrípeta.
+
+=== Definición V
+
+_Fuerza centrípeta es aquella por la cual los cuerpos son arrastrados
+o impelidos, o tienden de cualquier modo hacia un punto como
+hacia un centro_.
+
+De este tipo es la gravedad, por cuya mediación los cuerpos
+tienden hacia el centro de la Tierra, como también la fuerza
+magnética que atrae el hierro al imán, y esa fuerza -sea la que
+fuere- en cuya virtud los planetas son continuamente apartados
+de los movimientos rectilíneos que de otra manera seguirían, y
+obligados a girar en órbitas curvas. Una piedra que da vueltas
+en una honda se esfuerza por alejarse de la mano que la hace
+girar, y por ese esfuerzo distiende la honda tanto mas cuanto que
+con mayor velocidad gira, y sale volando tan pronto como es
+liberada. Llamo fuerza centrípeta a aquella que se opone a ese
+esfuerzo, y mediante la cual la honda atrae continuamente la
+piedra hacia la mano y la retiene en su órbita, porque se dirige
+hacia la mano como hacia el centro de la órbita. Y lo mismo
+debe entenderse de todos los cuerpos que giran en órbitas.
+Todos intentan alejarse de los centros de sus órbitas, y de no ser
+por la oposición de una fuerza contraria que se lo impide,
+manteniéndolos en sus órbitas, y que por eso llamo centrípeta,
+partirían en lineas rectas con un movimiento uniforme. Si no
+fuese por la gravedad, un proyectil no se desviaría hacia la
+Tierra, sino que continuaría en linea recta con un movimiento
+uniforme si se suprimiera la resistencia del aire. Es su gravedad
+quien le aparta continuamente de un curso rectilíneo, haciendo
+que se desvie más o menos hacia la Tierra, de acuerdo con su
+gravedad y la velocidad de su movimiento. Cuanto menor sea su
+gravedad, o la cantidad de su materia, y cuanto mayor sea la
+velocidad con la cual fue proyectado, menos se desviará de su
+curso rectilíneo, y más lejos llegará. Si una esfera de plomo,
+proyectada desde la cumbre de una montaña por la fuerza de la
+pólvora, con una velocidad dada y una dirección paralela al
+horizonte, es arrastrada en una linea curva hasta una distancia
+de dos millas antes de caer al suelo, en caso de ser proyectada
+con una velocidad doble o diez veces superior volaría dos o diez
+veces más si se suprimiera la resistencia del aire. E incrementan­do
+la velocidad podemos aumentar a discreción la distancia
+hasta la cual podría proyectarse, y disminuir la curvatura de la
+línea que describiría, hasta que al fin caería a la distancia de
+30 ó 90 grados, o incluso circundaría toda la Tierra antes de caer
+o, más aún, lograría no caer jamás, encaminándose hacia los
+espacios celestes, continuando su movimiento indefinidamente.
+Y tal como un proyectil, por la fuerza de gravedad, puede
+hacerse girar en una órbita y circundar toda la Tierra, asi
+también la Luna -bien por la fuerza de gravedad, si está dotada
+de gravedad, o por cualquier otra fuerza que la empuje hacia la
+Tierra- puede ser desviada continuamente del curso rectilíneo
+que seguiría por su fuerza insita y obligada a girar en su órbita
+actual, y sin esa fuerza la Luna no podría ser mantenida en su
+órbita. Si tal fuerza fuese demasiado pequeña, no bastaría para
+apartar a la Luna de un curso rectilíneo; sí fuese demasiado
+grande sacaría a la Luna de su órbita, haciéndola caer sobre la
+Tierra. Es necesario que la fuerza tenga la magnitud justa, y
+pertenece a los matemáticos descubrir la fuerza capaz de servir
+exactamente para retener a un cuerpo en una órbita dada a una
+velocidad dada; y, a la inversa, descubrir la curva que por efecto
+de una fuerza dada describirá un cuerpo proyectado desde un
+lugar dado con una velocidad dada también.
+
+La cantidad de cualquier fuerza centrípeta es de tres géneros:
+absoluta, acelerativa y motriz.
+
+=== Definición VI
+
+_La cantidad absoluta de una fuerza centripeta es una medida
+proporcional a la eficacia de la causa que la propaga desde el
+centro por las regiones circundantes_.
+
+Es así como la fuerza magnética resulta mayor o menor en
+un imán, según su tamaño e intensidad.
+
+=== Definición VII
+
+_La cantidad acelerativa de una fuerza centrípeta es una medida
+proporcional a la velocidad que genera en un tiempo dado_.
+
+Es así como la fuerza del mismo imán resulta mayor a menor
+distancia y a la inversa; también la fuerza gravitatoria es mayor
+en valles y menor en las cimas de altísimas montañas, y menor
+aún (como más adelante se mostrará) a mayores distancias del
+globo terráqueo. Pero a iguales distancias es idéntica en todas
+partes, porque acelera igualmente la caída de todos los cuerpos
+(pesados y ligeros, grandes y pequeños), prescindiendo de la
+resistencia del aire o descontándola.
+
+=== Definición VIII
+
+_La cantidad motriz de una fuerza centrípeta es una medida
+proporcional al movimiento que genera en un tiempo dado_.
+
+Es asi como el peso resulta mayor en un cuerpo mayor y
+menor en uno menor; y que, en el mismo cuerpo, sea mayor
+cerca de la Tierra y menor en los cielos. Esta cantidad es la
+centripetencia o propensión de todo el cuerpo hacia el centro o
+-como se dice- su peso; y es siempre conocida por la cantidad
+de una fuerza contraria e igual justamente suficiente para evitar
+el descenso del cuerpo.
+
+Estas cantidades, en aras de la brevedad, pueden llamarse
+fuerzas motrices, acelarativas y absolutas, y en aras de la
+claridad deben considerarse con respecto a los cuerpos que
+tienden hacia el centro, a los lugares de esos cuerpos y al centro
+de fuerza hacia el cual tienden; quiero decir que refiero la fuerza
+motriz al cuerpo como un esfuerzo y propensión del conjunto
+hacia un centro, surgido de las propensiones de las diversas
+partes en su conjunto; la fuerza acelerativa al lugar del cuerpo,
+como cierto poder difundido desde el centro a todos los lugares
+circundantes para mover a los cuerpos que están en ellos; y la
+fuerza absoluta al centro, como dotado de alguna causa sin la
+cual las fuerzas motrices no se propagarían a través de los
+espacios circundantes. Que esa causa sea algún cuerpo central
+(como el imán en el centro de la fuerza magnética o la Tierra en
+el centro de la fuerza gravitatoria) o alguna otra cosa cualquiera
+no es una cuestión sobre la que me pronuncie todavía. Pues aqui
+sólo pretendo dar una noción matemática de estas fuerzas, sin
+especular sobre sus causas y sedes físicas.
+
+Por lo cual la fuerza acelerativa será a la motriz lo que la
+celeridad es al movimiento. Porque la cantidad de movimiento
+surge de la celeridad multiplicada por la cantidad de materia, y
+la fuerza motriz surge de la acelerativa multiplicada por la
+misma cantidad de materia, pues la suma de las acciones de la
+fuerza acelerativa sobre las diversas partículas del cuerpo es la
+fuerza motriz del todo. Sucede por eso que cerca de la superficie
+de la Tierra, donde es idéntica en todos los cuerpos la gravedad
+acelerativa o fuerza gravitatoría, la gravedad motriz o peso es
+como el cuerpo; pero si ascendiéramos a regiones más altas,
+donde la gravedad acelerativa es menor, el peso disminuirá
+igualmente y seguirá siendo siempre como el producto del
+cuerpo por la gravedad acelerativa. Así pues, en las regiones
+donde la gravedad acelerativa se reduce a la mitad, el peso de
+un cuerpo dos o tres veces menor será cuatro o seis veces
+menor.
+
+Llamo en el mismo sentido acelerativas y motrices a las
+atracciones e impulsos; y utilizo las palabras atracción, impulso
+o propensión de cualquier tipo hacia un centro de modo
+indiferente e intercambiable, pues considero esas fuerzas no
+física, sino matemáticamente. El lector no debe imaginar que
+mediante esas palabras pretendo definir la especie o modo de las
+acciones, ni sus causas o razones físicas, ni que atribuyo fuerzas
+en un sentido físico y auténtico a centros (que son sólo puntos
+matemáticos) cuando aludo a centros dotados de capacidad
+atractiva.

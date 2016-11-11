@@ -1,0 +1,58 @@
+== AXIOMAS O LEYES DEL MOVIMIENTO
+
+=== LEY PRIMERA
+
+_Todos los cuerpos perseveran en su estado de reposo o de movimien­to
+uniforme en linea recta, salvo que se vean forzados a cambiar ese
+estado por fuerzas impresas._
+
+Los proyectiles perseveran en sus movimientos mientras no
+sean retardados por la resistencia del aire o impelidos hacia
+abajo por la fuerza de gravedad. Una peonza, cuyas partes se
+ven continuamente apartadas de movimientos rectilíneos por su
+cohesión, no cesaría de girar si no fuese retrasada por el aire.
+Los cuerpos mayores de los planetas y cometas, que encuentran
+menos resistencia en los espacios libres, preservan durante
+mucho más tiempo sus movimientos progresivos y circulares.
+
+=== LEY II
+
+_El cambio de movimiento es proporcional a la fuerza motriz
+impresa, y se hace en la dirección de la linea recta en la que se
+imprime esa fuerza_
+
+Si una Fuerza cualquiera genera un movimiento, una fuerza
+doble generará el doble de movimiento, una triple el triple, tanto
+si la fuerza es impresa entera y a la vez como sí lo es gradual y
+sucesivamente. Y cuando el cuerpo se movía antes, este movimiento
+(dirigido siempre siguiendo a la fuerza generadora) se
+añade, se resta o se une oblicuamente al movimiento anterior,
+según coadyuve, se oponga o se vincule oblicuamente a él,
+componiendo asi un nuevo movimiento formado por la determi­nación
+de ambos.
+
+=== LEY III
+
+_Para toda acción hay siempre una reacción opuesta e igual. Las
+acciones reciprocas de dos cuerpos entre si son siempre iguales y
+dirigidas hacia partes contrarias._
+
+Cualquier cosa que arrastre o compríma a otra es igualmente
+arrastrada o comprimida por esa otra. Si se aprieta una piedra
+con el dedo, el dedo es apretado también por la piedra. Si un
+caballo arrastra una piedra atada a una cuerda, el caballo (por
+asi decirlo) sera también arrastrado hacia atrás; la cuerda
+distendida, debido al esfuerzo mismo por relajarse, arrastrará al
+caballo hacia la piedra tanto como a la piedra hacia el caballo,
+estorbando el progreso de uno tanto como promueve el progre­so
+del otro. Si un cuerpo tropieza con otro y, debido a su fuerza,
+cambia el movimiento de éste, él también (debido a la igualdad
+de la presión mutua) sufrirá un cambio igual en su propio
+movimiento hacia la parte contraria. Los cambios producidos
+por esas acciones no son iguales en las velocidades, pero si en los
+movimientos de los cuerpos, siempre que no se vean estorbados
+por ningún otro impedimento. Pues como los movimientos han
+cambiado igualmente, los cambios de las velocidades hechos
+hacia partes contrarias son inversamente proporcionales a los
+cuerpos. Esta ley tiene lugar también en las atracciones, como
+será probado en el próximo Escolio.

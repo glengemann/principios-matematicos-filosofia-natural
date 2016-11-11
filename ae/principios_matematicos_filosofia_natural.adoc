@@ -1,0 +1,16 @@
+= Principios Matemáticos de la Filosofía Natural
+Isaac Newton (†)
+
+:doctype: book
+:lang: es
+:toc:
+
+include::_definiciones.adoc[]
+
+include::_axiomas_leyes_movimiento.adoc[]
+
+include::LXIX.adoc[]
+
+include::_libro_tercero.adoc[]
+
+include::_sistema_mundo.adoc[]
