@@ -56,3 +56,9 @@ cambiado igualmente, los cambios de las velocidades hechos
 hacia partes contrarias son inversamente proporcionales a los
 cuerpos. Esta ley tiene lugar también en las atracciones, como
 será probado en el próximo Escolio.
+
+==== Corolario Primero
+
+_Un cuerpo afectado simultaneamente por dos fuerzas describirá
+la diagonal de un paralelogramo en el mismo tiempo en que describiría
+los lados de ser afectado separadamene por esas fuerzas_.

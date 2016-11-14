@@ -9,6 +9,8 @@ include::_definiciones.adoc[]
 
 include::_axiomas_leyes_movimiento.adoc[]
 
+include::_libro_primero.adoc[]
+
 include::LXIX.adoc[]
 
 include::_libro_tercero.adoc[]

@@ -124,7 +124,7 @@ describe el arco menor VD y, proyectado con más velocidad, el
 arco mayor VE, prosiguiendo en su camino hasta F y G al
 aumentar la velocidad, si ésta sigue aumentando el cuerpo
 terminará por llegar hasta bastante más allá de la circunferen­cia
-de la Tierra, retornando a la montana desde la que fue
+de la Tierra, retornando a la montaña desde la que fue
 proyectado.
 
 Y puesto que las áreas descritas por este movimiento
@@ -208,3 +208,145 @@ al eje de la Tierra y otro, extremadamente lento, en tomo al eje
 de la eclíptica. Su explicación requiere una composición de
 fuerzas tan elaborada y variable que es difícil de reconciliar con
 cualquier teoría física.
+
+*§5* _Las fuerzas centrípetas se dirigen hacia los centros
+individuales de los planetas_.
+
+Infiero la existencia de fuerzas centrípetas dirigidas hacia los
+cuerpos del Sol, la Tierra y otros planetas de la siguiente
+manera.
+
+La Luna gira en torno a nuestra Tierra, describiendo,
+mediante radios trazados a su centro, áreas casi proporcionales
+a los tiempos de su descripción, como evidencia su velocidad
+comparada con su diámetro aparente, pues su movimiento es
+más lento cuando su diámetro es menor (y su distancia, en
+consecuencia, mayor) y su movimiento es más veloz cuando su
+diámetro es mayor.
+
+Las revoluciones de los satélites de Júpiter en torno a dicho
+planeta son más regulares, pues describen circulos concéntricos
+a Júpiter con movimiento uniforme, en la medida en que
+nuestros sentidos pueden percibirlo.
+
+También los satélites de Saturno giran en torno a este
+planeta con movimientos casi circulares y uniformes, sin que
+hasta ahora se haya observado excentricidad alguna que los
+perturbe sensiblemente.
+
+El aspecto lunar de Venus y Mercurio demuestra que giran
+en torno al Sol. Cuando brillan llenos se encuentran en una
+parte de su órbita que, con respecto a la Tierra, está allende el
+Sol; cuando están medio llenos se encuentran en las partes
+laterales del Sol; cuando muestran cuernos, en las partes
+situadas entre la Tierra y el Sol; y a veces, interponiéndose
+directamente entre la Tierra y el Sol, pasan por encima del disco
+solar.
+
+Venus describe, con movimiento casi uniforme, una órbita
+casi circular y concéntrica al Sol.
+
+Sin embargo, Mercurio, cuyo movimiento es más excéntrico,
+se acerca notablemente al Sol y después se separa, pero siempre
+es más veloz cuando está cerca del Sol, por lo que describe,
+mediante radio trazado al Sol, áreas proporcionales a los
+tiempos.
+
+El diámetro aparente del Sol, comparado con su movimiento
+aparente, nos demuestra, finalmente, que la Tierra describe en
+torno al Sol, o el Sol en torno a la Tierra, mediante radios
+trazados de uno a otra, áreas exactamente proporcionales a los
+tiempos.
+
+Hay experimentos astronómicos de los que se sigue, por las
+Proposiciones I, II y III del primer Libro de nuestros Principios
+y sus Corolarios, que existen fuerzas centrípetas dirigidas
+(exactamente o sin errores considerables) hacia los centros de la
+Tierra, Júpiter, Saturno y el Sol. En lo que respecta a Mercurio,
+Venus, Marte y los planetas menores, la falta de experimentos
+hace necesario argumentar por analogía.
+
+*§6* _Las fuerzas centrípetas decrecen en proporción inversa al
+cuadrado de las distancias a los centros de los planetas_.
+
+El Corolario IV, Proposición IV, Libro I, muestra que dichas
+fuerzas decrecen como el cuadrado inverso de la distancia, pues
+los tiempos periódicos de los satélites de Júpiter son unos con
+respecto a otros como la 3/2ava potencia de sus distancias al
+centro de dicho planetas.
+
+Hace mucho tiempo que se ha observado esta proporción en
+esos satélites, y Mr. _Flamsteed_, que ha medido a menudo sus
+distancias a Júpiter con micrómetro y mediante los eclipses de
+los satélites, me dijo por carta que es tan exacta como pueden
+discernir nuestros sentidos. También me envió las dimensiones
+de sus órbitas determinadas por el micrómetro y reducidas a la
+distancia media de Júpiter a la Tierra o al Sol. junto con los
+tiempos de sus revoluciones, como puede verse seguidamente:
+
+*§7* _Los planetas superiores giran en torno al Sol, describiendo,
+mediante radios trazados al Sol áreas proporcionales a los
+tiempos_.
+
+Las fases de Marte y la proporción de sus diámetros
+aparentes demuestran que este planeta gira en torno al Sol, pues
+el hecho de que esté lleno cerca de su conjunción con el Sol y
+giboso en sus cuadraturas prueba que lo circunda.
+
+Dado que su diámetro aparente es unas cinco veces mayor
+en oposición al Sol que en conjunción con él, y su distancia a la
+Tierra inversamente proporcional a su diámetro aparente, esa
+distancia será unas cinco veces menor cuando está en oposición
+al Sol que cuando está en conjunción con él. Sin embargo, su
+distancia al Sol será en ambos casos aproximadamente la misma
+que se infiere de su aspecto giboso en las cuadraturas. Y puesto
+que circunda al Sol a distancias casi iguales, aunque éstas son
+muy desiguales en lo que respecta a la Tierra, mediante radios
+trazados al Sol describirá áreas casi uniformes, pero mediante
+radios trazados a la Tierra a veces es veloz, a veces estacionario
+y a veces retrógrado.
+
+Infiero que Júpiter, situado en una órbita más alta que
+Marte, también gira en torno al Sol, con movimiento casi
+uniforme, de la manera siguiente.
+
+Mr. _Flamsteed_ me ha asegurado por carta que todos los
+eclipses del satélite interior hasta ahora observados concuerdan
+con esta teoría con tan considerable exactitud que nunca
+difieren de la misma dos minutos de tiempo; que en el exterior el
+error es un poco mayor, y en el más próximo a él apenas tres
+veces mayor; que en el más próximo al interior la diferencia es
+mucho mayor, aunque concuerda con sus cálculos casi tan
+aproximadamente como la Luna con las tablas comunes; y que
+sólo calcula los eclipses en base a los movimientos medios
+corregidos por la ecuación de la luz descubierta e introducida
+por Mr. _Romer_. Suponiendo, entonces, que la teoría difiere por
+un error de menos de 2' del movimiento del satélite exterior,
+como ya se ha dicho, y tomando el tiempo periódico
+16d 18h 5m 13s a 2' de tiempo como todo el circulo de 360° al arco
+1' 48'', el error de cálculo de Mr. _Flamsteed_, reducido a la órbita
+del satélite, será menor de 1'48'', Dicho de otra forma, la
+longitud del satélite, vista desde el centro de Júpiter, se determi­nará
+con un error inferior a 1' 48''. Sin embargo, cuando el
+satélite se encuentra en mitad de la sombra, esa longitud es la
+misma que la longitud heliocéntrica de Júpiter, por lo que la
+hipótesis aceptada por Mr. _Flamsteed_, es decir, la de _Copérnico_,
+mejorada por _Kepler_ y (en lo que toca al movimiento de Júpiter)
+posteriormente corregida por él mismo, representa correctamen­te
+dicha longitud con un error de menos de 1' 48''. Y con esta
+longitud y la longitud geocéntrica, fácil de encontrar, se determi­na
+la distancia de Júpiter al Sol, que debe ser, en consecuencia,
+exactamente la misma que la hipótesis supone. En efecto, ese
+error máximo de 1' 48'' en la longitud heliocéntrica es casi
+insensible y puede ignorarse sin problemas, pues quizá obedece a
+cierta excentricidad del satélite aún no descubierta. En cualquier
+caso, puesto que tanto la longitud como la distancia pueden
+determinarse correctamente, se sigue por necesidad que Júpiter
+describe, mediante radios trazados al Sol, áreas que cumplen las
+condiciones de la hipótesis, es decir, que son proporcionales a
+los tiempos.
+
+El satélite de Saturno, según las observaciones de Mr.
+_Huygens_ y el Dr. _Halley_, dos permite llegar a la misma
+conclusión, aunque para confirmarla y realizar cálculos suficien­temente
+exactos será necesaria una serie más larga de observa­ciones.

@@ -5,7 +5,7 @@
 _La fuerza ínsita de la materia es un poder de resistencia de todos los
 cuerpos, en cuya virtud perseveran cuanto está en ellos por mantener­se
 en su estado actual, ya sea de reposo o de movimiento uniforme en
-línea recta_
+línea recta_.
 
 Esta fuerza es siempre proporcional a su cuerpo, y sólo
 difiere de la inactividad de la masa por el modo de concebirla.

@@ -1,0 +1,43 @@
+== Sección II
+
+_Sobre la determinación de fuerzas centripetas_
+
+=== Proposición I. Teorema I
+
+_Las áreas que los cuerpos en revolución describen mediante radios
+trazados hasta un centro de fuerza inmóvil se encuentran en los
+mismos planos inmóviles y son proporcionales a los tiempos en los
+que se describen_.
+
+Divídase el tiempo en partes iguales y hágase que en la
+primera parte de ese tiempo el cuerpo describa por su fuerza
+innata la linea recta AB. En la segunda parte de ese tiempo (por
+la Ley I) y en caso de no ser obstaculizado el cuerpo seguiría
+directamente hasta _c_, siguiendo la linea B__c__ igual a AB; de tal
+manera que mediante los radios AS, BS y __c__S trazados hasta el
+centro se describirían las áreas iguales ASB y BS__c__. Pero cuando
+el cuerpo ha llegado a B supongamos que actúa una fuerza
+centrípeta con impulso instantáneo pero grande, y que desvian­do
+al cuerpo de la recta B__c__ lo obliga a continuar su movimiento
+siguiendo la reda BC. Trácese __c__C paralela a BS, encontrándose
+con BC en C; y al terminar la segunda parte del tiempo el
+cuerpo (por el Corolario I de las Leyes) será encontrado en C, en
+idéntico plano que el triángulo ASB. Unase SC, y como SB y C__c__
+son paralelas, el triángulo SBC será igual al triángulo SB__c__ y, en
+consecuencia, al triángulo SAB también. Argumentando de
+modo análogo, si la fuerza centrípeta actúa sucesivamente en C,
+D, E, etc., haciendo que en cada partícula singular de tiempo el
+cuerpo describa las lineas rectas CD, DE, EF. etc., todas ellas
+estarán en el mismo plano: y el triángulo SCD será igual al
+triángulo SBC, y SDE a SCD, y SEF a SDE. Y, por consiguien­te,
+en tiempos iguales se describen áreas iguales de un plano
+inmóvil; y, por composición, cualesquiera sumas SADS o SAFS
+de esas áreas serán respectivamente como los tiempos en los que
+se describieron. Aumentemos ahora el número de esos triángulos
+y disminuyamos su anchura hasta lo infinito; por el Corolario
+IV, Lema III, su perímetro último ADF será una linea curva,
+con lo cual la fuerza centrípeta que desvia continuamente al
+cuerpo de la tangente de esa curva actuará de modo continuo; y
+cualesquiera áreas descritas SADS, SAFS, proporcionales siem­pre
+a los tiempos de descripción, serán en este caso también
+proporcionales a tales tiempos. Q.E.D.
